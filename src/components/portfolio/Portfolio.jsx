@@ -1,6 +1,14 @@
 import React from 'react'
-export default function portfolio() {
+import './portfolio.css'
+
+const Portfolio = () => {
   return (
-    <div>portfolio</div>
+    <section id= "portfolio">
+      <h5>My recent work</h5>
+      <h2>Portfolio</h2>
+    </section>
   )
 }
+
+
+export default Portfolio
