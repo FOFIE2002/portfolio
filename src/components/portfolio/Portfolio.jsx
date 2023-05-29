@@ -17,7 +17,7 @@ const Portfolio = () => {
           <h3>Foodlie</h3>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/FOFIE2002/Foodlie' className='btn' target='_blank'>Github</a>
-          <a href='https://github.com/FOFIE2002/Foodlie' className='btn btn-primary'target='_blank'>Live Demo</a>
+         
           </div>
         </article>
 
