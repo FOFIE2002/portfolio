@@ -35,7 +35,7 @@ const About = () => {
               </article>
             </div>
             <p>
-              I am a young software engineering student studying at the Faculty of Engineering and Technology(FET) in the University of Buea. I am a holder of the GCE Advanced Level Cirtificate obtained in 2021. I am passionate about using Technology to solve real-world problems. Looking forward to gaining more experience in the tech field. I can express myself in both English and French (average).
+              A young software engineering student studying at the Faculty of Engineering and Technology(FET) in the University of Buea. I am a holder of the GCE Advanced Level Cirtificate obtained in 2021. I am passionate about using Technology to solve real-world problems. Looking forward to gaining more experience in the tech field. I can express myself in both English and French (average).
             </p>
             <a href="#contact" className="btn btn-primary">
               Let's talk

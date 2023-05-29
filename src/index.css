@@ -13,11 +13,11 @@
 
 :root {
     /*as root variable we can used it everywhere */
-    --color-bg: #1f1f38;
+    --color-bg: #125048;
     /* used two(-) to declare css variable */
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-bg-variant: #278868;
+    --color-primary: #62b990;
+    --color-primary-variant: rgba(0, 250, 217, 0.356);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
     --container-width-lg: 75%;
