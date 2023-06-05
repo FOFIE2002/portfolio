@@ -9,13 +9,9 @@ const Contact = () => {
     const form = useRef();
     const sendEmail = (e) => {
         e.preventDefault();
-        emailjs.sendForm('service_5vuauza', 'template_fdnnl56', form.current, 'EmSdUNQzQuxkUqGWx')
-        e.target.reset()
-            .then((result) => {
-                console.log(result.text)
-            }, (error) => {
-                console.log(error.text);
-            });
+        emailjs.sendForm('service_jwxocqx', 'template_rqatq9q', form.current, 'XIMcTOJf7C193jm2Y')
+         
+      e.target.reset()  
     };
     return (
         <section id="contact">

@@ -28,7 +28,7 @@ const Portfolio = () => {
           <h3>My Portfolio</h3>
           <div className='portfolio__item-cta'>
           <a href='https://github.com/FOFIE2002/portfolio' className='btn' target='_blank' rel="noreferrer">Github</a>
-          <a href='https://github.com/FOFIE2002/portfolio' className='btn btn-primary'target='_blank' rel="noreferrer">Live Demo</a>
+          <a href='https://fofie-portfolio.netlify.app' className='btn btn-primary'target='_blank' rel="noreferrer">Live Demo</a>
           </div>
         </article>
       </div>
