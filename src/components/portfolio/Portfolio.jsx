@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import './portfolio.css'
 // import Swiper core and required modules
-import { Pagination, Navigation, Scrollbar, A11y } from 'swiper';
+// import { Pagination, Navigation, Scrollbar, A11y } from 'swiper';
 
-import { Swiper, SwiperSlide } from 'swiper/react';
+// import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
 import 'swiper/css';
@@ -43,7 +43,7 @@ const Portfolio = () => {
               <img src={image} alt={title} />
             </div> 
             <h3>{title}</h3> 
-            <div className=".portfolio__item-cta">
+            <div className="portfolio__item-cta">
                 <a href={github} className="btn">
                   Github
                 </a>
